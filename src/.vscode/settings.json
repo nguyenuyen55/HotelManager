@@ -1,0 +1,19 @@
+{
+  "sqltools.connections": [
+    {
+      "mssqlOptions": {
+        "appName": "SQLTools",
+        "useUTC": true,
+        "encrypt": true
+      },
+      "previewLimit": 50,
+      "server": "sqldatabaselaundryservice.database.windows.net",
+      "port": 1433,
+      "driver": "MSSQL",
+      "name": "Laundryservice",
+      "database": "master",
+      "username": "laundryservice",
+      "password": "12345678A#"
+    }
+  ]
+}
